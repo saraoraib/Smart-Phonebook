@@ -1,6 +1,6 @@
 # Smart-Phonebook
 
-The Smart Phonebook is a simple yet efficient phonebook management system that allows users to search for phone numbers, search by name, and add new contacts to a digital phonebook. This project is designed to help students practice working with dictionaries, loops, conditional statements, and basic input validation.
+The Smart Phonebook is a simple yet efficient phonebook management system that allows users to search for phone numbers, search by name, and add new contacts to a digital phonebook.
 
 The system provides an interactive menu for users to perform the following actions:
 
